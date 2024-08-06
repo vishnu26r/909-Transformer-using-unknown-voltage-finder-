@@ -1,0 +1,8 @@
+1) 9 0 9 stepdown transformer 
+2) Bridge rectifier
+3) 50v 2 x 470uf capacitor 
+4) 100v capacitor 
+5) 6.8k resistor
+6) 1k resistor 
+7) 12v zener diode 
+8) Mini volt meter
